@@ -8,7 +8,7 @@ import RegistroDashboard from '@/views/Registro_view/RegistroDashboard.vue';
 import AdminDashboard from '../views/Administrador_view/AdminDashboard.vue';
 import ColorsService from '@/services/Colors';
 
-
+//
 const routes = [
   {
     path: '/',
